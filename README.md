@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sam!
 - 🔭 I’m currently working on saving the planet
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on a test
