@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on @Home
 - 🌱 I’m currently learning JavaScript
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMEAZUKrw_B23PypVM7MdlA">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMEAZUKrw_B23PypVM7MdlA"> <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCMEAZUKrw_B23PypVM7MdlA">
+
 
 
 🧰 Tool Box
