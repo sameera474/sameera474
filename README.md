@@ -12,7 +12,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="JavaScript logo" width="500px" hight="450px" align="right" />
     </div>
     <div>
-    - 🔭 I’m currently working on @Home <br>
+    - 🔭 I’m currently working @Home <br>
     - 🌱 I’m currently learning JavaScript <br>
       <p></p>
     </div>
