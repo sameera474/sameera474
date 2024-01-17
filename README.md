@@ -19,8 +19,8 @@
 
 
    
-  - 🔭 I’m currently working @Home <br>
-  - 🌱 I’m currently learning JavaScript <br>
+  - 🔭 I’m currently working @Home
+  - 🌱 I’m currently learning HTML, CSS and JavaScript
 
 
 
