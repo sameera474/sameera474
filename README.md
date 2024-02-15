@@ -20,7 +20,7 @@
 
    
   - 🔭 I’m currently working @Home
-  - 🌱 I’m currently learning HTML, CSS and JavaScript
+  - 🌱 I’m currently learning HTML, CSS, JavaScript, React and Python
 
 
 
