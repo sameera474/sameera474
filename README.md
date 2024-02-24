@@ -10,10 +10,11 @@
 <div top-margin=60px  align="left"  width="47%" >
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMEAZUKrw_B23PypVM7MdlA"> <img alt="YouTube Channel Views"   src="https://img.shields.io/youtube/channel/views/UCMEAZUKrw_B23PypVM7MdlA">
 <h2>About Me</h2>
-  - 🔭 I’m currently working @Home
-  - 🌱 I’m currently learning HTML, CSS, JavaScript, React and Python
-  </div>
- </div>
+  <ul>
+    <li>🔭 I’m currently working @Home</li> 
+    <li>🌱 I’m currently learning HTML, CSS, JavaScript, React and Python</li>
+  </ul>
+</div>
 
 <div top-margin=60px>
  <h2>🧰 Tools</h2>
@@ -32,8 +33,8 @@
 
 
 <div top-margin=60px>
- <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameera474&show_icons=true&locale=en&layout=compact" alt="sameera474" /></p>
- <p><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=sama&theme=dark&show_icons=true"</p>
+ <p><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameera474&theme=dark&show_icons=true&locale=en&layout=compact" alt="sameera474" /></p>
+ <p><img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=sameera474&theme=dark&show_icons=true"</p>
  </div>
 
 <!--
