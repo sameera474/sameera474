@@ -28,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongodb logo" width="50px" hight="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git logo" width="50px" hight="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter logo" width="50px" hight="50px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu logo" width="50px" hight="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express logo" width="50px" hight="50px" /> <br>
  </div>
 </div>
