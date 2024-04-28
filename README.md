@@ -12,7 +12,7 @@
 <h2>About Me</h2>
   <ul>
     <li>🔭 I’m currently working @Home</li> 
-    <li>🌱 I’m currently learning HTML, CSS, JavaScript, React and Python</li>
+    <li>🌱 I’m currently learning React (HTML, CSS, JavaScript), NodeJS, Express, MongoDB, and Python</li>
   </ul>
 </div>
 
