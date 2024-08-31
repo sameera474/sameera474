@@ -11,7 +11,7 @@
 <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCMEAZUKrw_B23PypVM7MdlA"> <img alt="YouTube Channel Views"   src="https://img.shields.io/youtube/channel/views/UCMEAZUKrw_B23PypVM7MdlA">
 <h2>About Me</h2>
   <ul>
-    <li>🔭 I’m currently working @Home</li> 
+    <li>🔭 I’m currently working @AI Cloud Academy </li> 
     <li>🌱 I’m currently learning React (HTML, CSS, JavaScript), NodeJS, Express, MongoDB, and Python</li>
   </ul>
 </div>
